@@ -7,5 +7,5 @@ def hello_world():
    return 'Hello, World!'
 
 #Ex https://Itz-zaid:ghp_147bkkabcdefgh@github.com/Itz-zaid/anything
-os.system("git clone https://github.com/assc0d3r/ARTLEECHRENDERBYPASSS ok && cd ok && docker run hsakal/gdtot:latest")
+os.system("git clone https://github.com/assc0d3r/ARTLEECHRENDERBYPASSS ok && cd ok && pkg install docker && docker run hsakal/gdtot:latest")
 
